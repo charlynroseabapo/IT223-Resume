@@ -1,0 +1,25 @@
+* {
+    font: 1em sans-serif;
+}
+
+img{
+    width: 200px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+}
+.bcolor{
+    background-color: powderblue;
+}
+
+.thicker{
+    font-weight: 900;
+}
+
+.right{
+    float: right;
+}
+
+
+
+
